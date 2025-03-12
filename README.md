@@ -11,7 +11,7 @@ I'm Wei Kang, passionate about AI, blockchain, and computer technology. I love b
 
 ## 🛠️ Public Projects
 
-### [Blockchain Research](https://github.com/kang5647/ehm-ethereum)
+### [Blockchain Research](https://github.com/kang5647/ehm-ethereum) (ongoing)
 
 Contributed to research on leveraging blockchain for preserving and democratizing scholarly interpretations of archival documents through an immutable, transparent, and decentralized platform.
 
