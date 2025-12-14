@@ -4,9 +4,9 @@ I'm Wei Kang, passionate about AI, blockchain, and computer technology. I love b
 
 ## 🚀 About Me
 
-- 🎓 Fresh Grad, Computer Science Major from NTU Singapore
+- 🎓 Computer Science Major from NTU Singapore
 - 🔍 Interested in AI, Blockchain, and Digital Media
-- 🌐 Currently working on a **Telemedicine AI Chatting Platform** to enhance healthcare accessibility
+- 🌐 Currently work at a Fintech company
 - 💡 Fascinated by building scalable systems and creating impactful solutions
 
 ## 🛠️ Public Projects
